@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.square {
+    position: absolute;
+    left: 0.5vw;
+    top: 0.3vw;
+    color: #aadd99;
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+}
